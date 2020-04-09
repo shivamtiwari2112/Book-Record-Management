@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586271451 source:f:\code block programs\book record management\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
